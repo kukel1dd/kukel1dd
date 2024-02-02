@@ -9,7 +9,7 @@
 
 Learning to code has been a very fun experience testing my brain over all these projects i have been looking at.
 As i'm new to programming I find it really interesting to see something so simple at facevalue broken down with all the code that actually goes into running something and makes me want to 
-keep learning more and more!
+keep learning more!
 
 
 Thanks for reading - Luke
