@@ -4,7 +4,7 @@
       have a job in a field where i'm having fun and learning.
 - 🌱 I’m currently learning Python as of 2022, Visual basics as of 2023, and C# as of 2024.
 -  I have started working in my class with forms in the .NET framework as of 2024 as well as learning Microsoft Access in Another one of my classes.
-- 💞️ I’m looking to collaborate on nothing as of now im focused on learning
+- 💞️ I’m looking to collaborate on nothing as of now I'm focused on learning.
 - 📫 How to reach me kukelidd2@gmail.com
 
 Learning to code has been a very fun experience testing my brain over all these projects i have been looking at.
